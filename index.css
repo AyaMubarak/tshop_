@@ -29,7 +29,7 @@ header{
     justify-content: space-between;
     align-items: center;
 }
-header .logo img{
+header .logo svg{
     width: 28px;
     height: 27px;
 }

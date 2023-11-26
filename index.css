@@ -29,9 +29,12 @@ header{
     justify-content: space-between;
     align-items: center;
 }
+.mangcoding{
+font-sizing:20px;
+}
 header .logo svg{
-    width: 33px;
-    height: 30px;
+    width: 44px;
+    height: 42px;
 }
 header .logo a{
     font-family: Roboto;
